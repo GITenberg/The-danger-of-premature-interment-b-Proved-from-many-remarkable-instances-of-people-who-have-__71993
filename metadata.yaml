@@ -1,0 +1,35 @@
+_repo: The-danger-of-premature-interment-b-Proved-from-many-remarkable-instances-of-people-who-have-__71993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Joseph
+    alias: Taylor, J. (Joseph)
+    birthdate: 1761
+    deathdate: 1844
+    gutenberg_agent_id: '35166'
+    url: http://www.gutenberg.org/2009/agents/35166
+description: ''
+gutenberg_issued: '2023-10-31'
+identifiers:
+  gutenberg: '71993'
+language: en
+pgterms:marc904: https://archive.org/details/dangerofprematur00tayl
+pgterms:marc905: 20230820185323taylor
+pgterms:marc906: '1815'
+pgterms:marc907: gb
+production_note: Aaron Adrignola, Gísli Valgeirsson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bW. Simpkin and R. Marshall, $c1815, pubdate 1816.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Funeral rites and ceremonies'
+- !lcsh 'Burial, Premature'
+- !lcc 'RA'
+- GITenberg
+title: 'The danger of premature interment : $b Proved from many remarkable instances
+  of people who have recovered after being laid out for dead, and of others entombed
+  alive, for want of being properly examined prior to interment'
+url: http://www.gutenberg.org/ebooks/71993
